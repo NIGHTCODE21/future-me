@@ -11,6 +11,12 @@
   "author": "",
   "license": "ISC",
   "description": "",
+
+
+   "engines": {
+    "node": "22.x"
+  },
+  
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
